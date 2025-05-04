@@ -7,7 +7,7 @@ const GsapFrom = () => {
     gsap.from("#green-box", {
       x:300,
       rotate: 360,
-      scale: 0.5,
+      scale: 0.5, 
       yoyo: true,
       repeat:-1,
       duration:2,
